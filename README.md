@@ -12,5 +12,7 @@ Habilidades:
 -Sequelize
 -Html
 -Css
-
+ Contacto:
+ -cd.molina1806@gmail.com
+ -deiby0798@gmail.com
  
