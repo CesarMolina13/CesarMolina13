@@ -1,3 +1,20 @@
+Cesar David molina
+
+Full Stack Developer Web con habilidad en lenguajes y herramientas de software que incluyen JavaScript, HTML, CSS, React, Node, entre otros. Excelente manejo de tecnologías y escritura de código para desarrollar sistemas
+
+Experiencia
+Breve descripción de tu experiencia laboral o académica relevante.
+
+
+
+Habilidades
+
+
+
+
+Contacto
+Información de contacto para los usuarios que deseen comunicarse contigo, incluyendo enlaces a tus perfiles en redes sociales o correo electrónico.
+
 ### Hi there 👋
 
 <!--
